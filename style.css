@@ -1,0 +1,347 @@
+* {
+    margin: 0;
+    position: absolute;
+}
+
+.pintura {
+    height: 969px;
+    width: 1920px;
+}
+
+.blech {
+    height: 850px;
+    width: 280px;
+    top: 23px;
+    left: 23px;
+}
+
+.titulo {
+    color: #FFFF;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    top: 40px;
+    left: 100px;
+}
+
+.html {
+    height: 75px;
+    width: 75px;
+    border: 1px solid #000;
+    top: 790px;
+    left: 40px;
+}
+
+.java {
+    height: 75px;
+    width: 75px;
+    border: 1px solid #000;
+    top: 790px;
+    left: 125px;
+}
+
+.css {
+    height: 75px;
+    width: 75px;
+    border: 1px solid #000;
+    top: 790px;
+    left: 210px;
+}
+
+.arrow {
+    width: 100px;
+    height: 150px;
+    top: 200px;
+    left: 116px;
+}
+
+.sub {
+    color: #FFFF;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    top: 350px;
+    left: 890px;
+}
+
+.basic {
+    color: #FFFF;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 45px;
+    top: 500px;
+    left: 948px;
+}
+
+.perfil {
+    height: 150px;
+    width: 150px;
+    border-radius: 318px;
+    top: 130px;
+    left: 1550px;
+}
+
+.circle {
+    width: 150px;
+    height: 25px;
+    border-radius: 317px;
+    background: #FFFF;
+    top: 40px;
+    left: 1550px;
+}
+
+a {
+    text-decoration: none;
+    color: #FFFF;
+}
+
+a:hover {
+    color: red;
+}
+
+.about {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    top: 50px;
+    left: 890px;
+}
+
+.projects {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    top: 50px;
+    left: 1000px;
+}
+
+.contact {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    top: 50px;
+    left: 1130px;
+}
+
+.desenho {
+    position: absolute;
+    height: 969px;
+    width: 1920px;
+}
+
+.home {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    top: 50px;
+    left: 800px;
+}
+
+.yorich {
+    height: 850px;
+    width: 280px;
+    top: 23px;
+    left: 23px;
+}
+
+.comeso {
+    color: #FFFF;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    top: 40px;
+    left: 100px;
+}
+
+.tanjiro {
+    height: 75px;
+    width: 75px;
+    border: 1px solid #000;
+    top: 790px;
+    left: 40px;
+}
+
+.gojo {
+    height: 75px;
+    width: 75px;
+    border: 1px solid #000;
+    top: 790px;
+    left: 125px;
+}
+
+.itachi {
+    height: 75px;
+    width: 75px;
+    border: 1px solid #000;
+    top: 790px;
+    left: 210px;
+}
+
+.one {
+    height:300px;
+    width: 300px;
+    top: 150px;
+    left: 500px;
+    border: 1px solid #000;
+}
+
+.jujutsu {
+    height: 300px;
+    width: 300px;
+    top: 150px;
+    left: 980px;
+    border: 1px solid #000;
+}
+
+.record {
+    height: 300px;
+    width: 300px;
+    top: 150px;
+    left:1450px;
+    border: 1px solid #000;
+}
+
+.project {
+    height: 969px;
+    width: 1920px;
+}
+
+.contacts {
+    height: 969px;
+    width: 1920px;
+}
+
+.lua {
+    height: 850px;
+    width: 280px;
+    top: 23px;
+    left: 23px;
+}
+
+.projetos {
+    color: #FFFF;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    top: 40px;
+    left: 90px;
+}
+
+.flecha {
+    width: 100px;
+    height: 150px;
+    top: 350px;
+    left: 116px;
+}
+
+.god {
+    height:300px;
+    width: 300px;
+    top: 550px;
+    left: 500px;
+    border: 1px solid #000;
+}
+
+.cart {
+    height: 300px;
+    width: 300px;
+    top: 550px;
+    left: 980px;
+    border: 1px solid #000;
+}
+
+.five {
+    height: 300px;
+    width: 300px;
+    top: 550px;
+    left:1450px;
+    border: 1px solid #000;
+}
+
+.mine {
+    height: 850px;
+    width: 280px;
+    top: 23px;
+    left: 23px;  
+}
+
+.codigo {
+    height:300px;
+    width: 300px;
+    top: 150px;
+    left: 500px;
+    border: 1px solid #000;
+}
+
+.script {
+    height:300px;
+    width: 300px;
+    top: 150px;
+    left: 980px;
+    border: 1px solid #000;
+}
+
+.atividade {
+    height:300px;
+    width: 300px;
+    top: 150px;
+    left: 1450px;
+    border: 1px solid #000;
+}
+
+.pug {
+    height:300px;
+    width: 300px;
+    top: 550px;
+    left: 500px;
+    border: 1px solid #000;
+}
+
+.jogo {
+    height: 300px;
+    width: 300px;
+    top: 550px;
+    left: 980px;
+    border: 1px solid #000;
+}
+
+.calculator {
+    height: 300px;
+    width: 300px;
+    top: 550px;
+    left:1450px;
+    border: 1px solid #000;
+}
+
+.conta {
+    color: #000;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    top: 40px;
+    left: 90px;
+}
+
+.git {
+    width: 100px;
+    height: 100px;
+border-radius: 86px;
+top: 220px;
+left: 430px;
+}
+
+.insta {
+    width: 100px;
+    height: 100px;
+    border-radius: 86px;
+    top: 220px;
+    left: 500px;
+}
